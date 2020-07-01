@@ -20,8 +20,8 @@
 
 ## Useful links
 
-![POST MAN COLLECTION](https://www.getpostman.com/collections/5c320a316d119362c5f8)
-![Server Link - AKA - BASEURL](http://139.162.142.73)
+[POST MAN COLLECTION](https://www.getpostman.com/collections/5c320a316d119362c5f8)
+[Server Link - AKA - BASEURL](http://139.162.142.73)
 
 ## EndPoints 📕
 
