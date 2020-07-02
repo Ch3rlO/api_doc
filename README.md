@@ -1,4 +1,4 @@
-# The Cesspit of Baghdad 👾
+# The cesspit of Baghdad 👾
 
 ## Each Request should have a token 🔒
 
